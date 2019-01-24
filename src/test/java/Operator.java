@@ -13,4 +13,7 @@ public class Operator {
         int sum = x + y;
         return sum;
     }
+    public static int Multip(int x, int y){
+        int sum = x*y;
+        return sum;
 }
